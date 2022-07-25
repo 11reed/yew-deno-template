@@ -1,0 +1,4 @@
+scripts:
+  start: deno run --allow-net --allow-read ./server/index.ts
+  test: deno test --allow-net --allow-read ./server/index.ts
+  watch: ./server/index.ts
