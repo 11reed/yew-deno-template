@@ -1,5 +1,5 @@
 import { opine } from 'https://deno.land/x/opine@2.2.0/mod.ts'
-import { opineCors } from 'https://deno.land/x/cors/mod.ts'
+import { opineCors } from 'https://deno.land/x/cors/mod.ts';
 
 const app = opine()
 
